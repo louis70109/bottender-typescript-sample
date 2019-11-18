@@ -16,4 +16,4 @@ Replace `.env.sample` name to `.env` and add relate information in here.
 
 - `tsc -w` to Compile
 - `yarn install`
-- ``yarn dev` to test bot, or add `--console` to test bot in CLI.
+- `yarn dev` to test bot, or add `--console` to test bot in CLI.
