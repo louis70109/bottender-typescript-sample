@@ -14,4 +14,6 @@ Replace `.env.sample` name to `.env` and add relate information in here.
 
 ## Test
 
-Use `npm install`(or `yarn install`) and `npm run dev`(or `yarn dev`) to test bot, or add `--console` to test bot in CLI.
+- `tsc -w` to Compile
+- `npm install`(or `yarn install`)
+- `npm run dev`(or `yarn dev`) to test bot, or add `--console` to test bot in CLI.
