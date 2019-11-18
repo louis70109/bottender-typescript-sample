@@ -1,4 +1,4 @@
-This project was used [Bottender](https://github.com/Yoctol/bottender).
+This project is base on [Bottender](https://github.com/Yoctol/bottender).
 
 ## Main packages
 
@@ -7,6 +7,11 @@ This project was used [Bottender](https://github.com/Yoctol/bottender).
 - Postgresql
 - typeorm
 
+## Create `.env`
+
+Replace `.env.sample` name to `.env` and add relate information in here.
+
+
 ## Test
 
-Use `npm install`(or `yarn install`) and `npm run dev`(or `yarn dev`) to test bot, or add `--console` to test bot in local.
+Use `npm install`(or `yarn install`) and `npm run dev`(or `yarn dev`) to test bot, or add `--console` to test bot in CLI.
